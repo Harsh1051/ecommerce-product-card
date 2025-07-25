@@ -74,8 +74,8 @@ The goal was to create a **responsive product card component** using real-world 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Harsh1051/frontend-test-product-card.git
-   cd frontend-test-product-card
+   git clone https://github.com/Harsh1051/ecommerce-product-card
+   cd ecommerse-product-card
 
 
 
